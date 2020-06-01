@@ -28,7 +28,7 @@ function keyPressed() {
     }
 }
 function draw() {
-    background(51);
+    background(0);
     textSize(32);
     text('DRAW', width/2-80, 40);
 
